@@ -2,7 +2,7 @@ Internationalization and Localization with Flask
 ================================================
 
 This is the source code for my post on the *Safari Books Online* blog,
-*Internationalization and Localization with Flask* (URL pending publication).
+[*Internationalization and Localization with Flask*](http://blog.safaribooksonline.com/2013/11/27/flask-internationalization-and-localization/).
 
 License
 -------
