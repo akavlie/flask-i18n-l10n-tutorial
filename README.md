@@ -1,8 +1,8 @@
-Internationalization and Localization with Flask
-================================================
+Flask Internationalization and Localization
+===========================================
 
 This is the source code for my post on the *Safari Books Online* blog,
-[*Internationalization and Localization with Flask*](http://blog.safaribooksonline.com/2013/11/27/flask-internationalization-and-localization/).
+[*Flask Internationalization and Localization*](http://blog.safaribooksonline.com/2013/11/27/flask-internationalization-and-localization/).
 
 License
 -------
